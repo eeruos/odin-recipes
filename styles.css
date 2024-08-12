@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(174, 228, 229);
+}
+
+h1 {
+    color: rgb(216, 163, 27);
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.list-mainpage {
+    color: rgb(rgb(163, 203, 19));
+    font-size: 36px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
